@@ -1,4 +1,4 @@
 # Remastering-DeviceSecurity
-Remastering 
-Hehe
+Remastering Xubuntu 16.04
+
 Tugas Remastering
